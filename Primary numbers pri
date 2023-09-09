@@ -1,0 +1,8 @@
+challenge 1  
+int max,min
+{
+printf("enter the max");
+scanf("%d",&max);
+printf("enter the min");
+scanf("%d",&min);
+}
